@@ -1,0 +1,43 @@
+.dotFilled {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    padding: 10px;
+    float: left;
+}
+
+.dotBlank {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    padding: 10px;
+    float: left;
+}
+
+.dotGreen {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    padding: 10px;
+}
+.dotBlue {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: green;
+    display: inline-block;
+    padding: 10px;
+}
+
+
+.container {
+    width: 360px;
+    height: 360px;
+}
+
